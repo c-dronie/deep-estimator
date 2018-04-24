@@ -11,5 +11,4 @@ A smart gadget to estimate "something"
 
 ## historical data
 * http://api.bitcoincharts.com/v1/csv/
-  * Conventions: 
-    * | timestamp | price | amount |
+  * | timestamp | price | amount |
